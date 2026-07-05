@@ -38,11 +38,16 @@ public class Createlocation {
 
 	        String name = js.getString("data.character.name");
 	        System.out.println(name);
+	        
+	        System.out.println("added browser operation");
+	        System.out.println("added new ");
+	        System.out.println("added new project4");
 
 	    }
 
 	    public static void main(String[] args) {
 	        Createlocation();
+	        System.out.println("git added");
 	    }
 	}
 
