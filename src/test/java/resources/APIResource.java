@@ -13,9 +13,9 @@ public enum APIResource {
     }
 
     public String getResource() {
-    	 System.out.println("apis run togeter");
+    	   System.out.println("cd C:\\Users\\jilan\\Gitstuff"); 
         return resource;
         
-       
+ 
     }
 }
