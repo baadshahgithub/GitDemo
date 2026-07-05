@@ -38,6 +38,9 @@ public class Createlocation {
 
 	        String name = js.getString("data.character.name");
 	        System.out.println(name);
+	        System.out.println("added new project");
+	        System.out.println("added new project2");
+	        System.out.println("added new project3");
 	    }
 
 	    public static void main(String[] args) {
