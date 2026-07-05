@@ -43,7 +43,7 @@ public class Utils_data {
                 new FileInputStream(path);
 
         prop.load(fis);
-System.out.println("propertie files data");
+
         return prop;
     }
     
@@ -63,7 +63,7 @@ System.out.println("propertie files data");
         {
             throw new RuntimeException("Key '" + key + "' not found in response");
         }
-        System.out.println("propertie files data");
+   
 
         return value.toString();
     }

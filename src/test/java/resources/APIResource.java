@@ -13,6 +13,9 @@ public enum APIResource {
     }
 
     public String getResource() {
+    	 System.out.println("apis run togeter");
         return resource;
+        
+       
     }
 }
