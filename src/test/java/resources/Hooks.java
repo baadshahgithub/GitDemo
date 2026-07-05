@@ -14,7 +14,7 @@ public class Hooks {
 		//write a code that give u placeid
 		//run this only the placeid id null
 	Stepdefination sp = new Stepdefination();
-	 System.out.println("apis run togeter");
+	
 	{
 	if(Stepdefination.placeId==null)
 		
